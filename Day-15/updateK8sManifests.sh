@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -x
+set -x   ###to print each and every command just to run the shell script in the debug mode
 
 # Set the repository URL
 REPO_URL="https://<ACCESS-TOKEN>@dev.azure.com/<AZURE-DEVOPS-ORG-NAME>/voting-app/_git/voting-app"
